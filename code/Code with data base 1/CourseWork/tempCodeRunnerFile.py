@@ -1,0 +1,1 @@
+# This code is inspired by : https://github.com/pydeveloperashish/Smoke-and-Fire-Recognition
